@@ -13,7 +13,6 @@ else:
 
 print ("Total time for the triathlon:", total_time)
 print (award)
-
        
 
    
