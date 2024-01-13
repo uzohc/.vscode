@@ -1,7 +1,8 @@
-# Function to print the asterisk pattern
+
+# Function to print the asterisk '*` patterns in double incrmental order.
 def print_asterisk_triangle(rows):
     for i in range(1, rows + 1):
-        # Print spaces before the asterisks
+# Print spaces before the asterisks
         for j in range(rows - i):
             print(" ", end="")
         
@@ -17,3 +18,10 @@ num_rows = 5
 
 # Call the function to print the pattern
 print_asterisk_triangle(num_rows)
+
+#output 
+    *
+   ***
+  *****
+ *******
+*********
