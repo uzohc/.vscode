@@ -1,3 +1,4 @@
+# This code sums up inputted integers and divid the total with the last integer.
 # Get user input for three integers
 num1 = int(input("Enter the first integer: "))
 num2 = int(input("Enter the second integer: "))
