@@ -1,3 +1,5 @@
+#Each time you input 'y', it gives you the number of kitten who have attempted world domination.
+#A 'n' response will print out 'The world is safe ... for now'
 kittens = 0
 question = input("Has a kitten attempted to take over the world?(y/n) ")
 
