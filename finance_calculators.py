@@ -1,3 +1,6 @@
+#In this code we calculated interest on investment. It was also programmed to calculate both simple and compound interests as well. 
+#The program also computed monthly bond repayment for mortage. 
+
 print ("import math")
 def calculate_investment():
     try:
