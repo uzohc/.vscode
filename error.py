@@ -1,3 +1,4 @@
+# A buuggy code was given and I had to debug the code. The steps I took to debug it are outlined below this code.
 print("Welcome to the error program")
 print("\n")
 
