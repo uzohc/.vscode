@@ -1,3 +1,4 @@
+#This code created the below pattern when ran.
 pattern = "*"
 # Create the pattern
 lines = 10
@@ -10,3 +11,13 @@ for num in range (1, lines):
         to_print = pattern*count_down
     
     print(to_print)
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
