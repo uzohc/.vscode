@@ -3,7 +3,7 @@ print("Welcome to the error program")
 print("\n")
 
 # Variables declaring the user's age, casting the str to an int, and printing the result
-age_str = "30 years old"
+age_str = "24 years old"
 age = int(age_str[:2])  # Extracting the numeric part and converting to int
 print("I'm " + str(age) + " years old.")
 
