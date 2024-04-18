@@ -13,7 +13,7 @@ elif 101 <= total_time <= 105:
 elif 106 <= total_time <= 110:
   award = "Provincial Scroll"
 else:
- award = "no award"
+ award = "zero award"
 
 print ("Total time for the triathlon:", total_time)
 print (award)
